@@ -1,0 +1,3 @@
+/home/magdiel/CLionProjects/ejer1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/magdiel/CLionProjects/ejer1/cmake-build-debug/CMakeFiles/ejer1.dir
+/home/magdiel/CLionProjects/ejer1/cmake-build-debug/CMakeFiles/edit_cache.dir
