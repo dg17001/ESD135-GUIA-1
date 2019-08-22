@@ -1,0 +1,3 @@
+/home/magdiel/CLionProjects/u/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/magdiel/CLionProjects/u/cmake-build-debug/CMakeFiles/u.dir
+/home/magdiel/CLionProjects/u/cmake-build-debug/CMakeFiles/edit_cache.dir
