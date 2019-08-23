@@ -1,0 +1,11 @@
+ ***************************************
+ *    Tipo      *    Tamaño en memoria *
+ ***************************************
+ * char         *      1 byte          *
+ * int          *      2 o 4 bytes     *
+ * float        *      4 bytes         *
+ * short        *      2 bytes         *
+ * double       *      8 bytes         *
+ * long         *      4 bytes         *
+ * long double  *     10 bytes         *
+ ***************************************
