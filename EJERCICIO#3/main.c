@@ -38,7 +38,7 @@ int main() {
     varianza = total/n;
     printf("La varianza es: %.4f", varianza);
     printf("\n");
-
+    
     devest = sqrt(varianza);
     printf("La desviacion estándar es: %.4f", devest);
 }
