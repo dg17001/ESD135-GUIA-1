@@ -1,0 +1,3 @@
+/home/magdiel/CLionProjects/qwerty/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/magdiel/CLionProjects/qwerty/cmake-build-debug/CMakeFiles/qwerty.dir
+/home/magdiel/CLionProjects/qwerty/cmake-build-debug/CMakeFiles/edit_cache.dir
